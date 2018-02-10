@@ -18,6 +18,7 @@ https://atom.io/packages/sync-sync
       - Qiita はユーザ名指定 (Qiita::Team は未対応というか、未検証)
       - esa.io はチーム名指定
       - DocBase はドメイン指定
+      - Confluence はドメイン、スペース指定
    - 取り込んだ記事はローカルのディレクトリ指定で最新状態に更新できます
    - 各ファイルを指定することで、ファイル指定で最新状態に更新できます
       - Import の際にローカル側で未反映の変更がある場合は、そのファイルは Import をスキップします
@@ -41,6 +42,8 @@ https://atom.io/packages/sync-sync
    - https://{team}.esa.io/user/applications から個人用アクセストークンを発行
 - DocBase
    - https://{domain}.docbase.io/settings/profile から API Token を発行
+- Confluence
+   - https://id.atlassian.com/manage/api-tokens から API Token を発行
 
 
 ## 設計
@@ -51,6 +54,7 @@ https://atom.io/packages/sync-sync
    - Qiita の場合は、シンプルでフラットな構造なので、そのまま単階層に Import するようにしました
    - esa.io は、 category が事実上ディレクトリのような扱いなので、ローカルでも Import 時はその構成を再現するようにしました
    - DocBase の場合は、 group と scope というのがあり、これらはメタ情報として制御可能にしました
+   - Confluence の場合は、本体が HTML として保存されているため、 Markdown として出力できるオプションを付けました
    - 各サービスとも tag はメタ情報として制御可能にしました
    - 各サービスとも WIP 状態は未実装です
 - ポータブルにするため、設定ファイルは `~/.atom` ではなく、 Atom でプロジェクトとして開いたディレクトリルートに作るようにしています
@@ -67,7 +71,6 @@ https://github.com/tearoom6/sync-sync
 
 割と突貫工事で作ったのと JS の async に慣れてないのとで荒削りのコードですが、まだまだ改善できることは多いので、ぜひフィードバック頂けるとモチベーションになります！
 他のサービスとの連携とかでも嬉しいです！
-(Confluence や Evernote との連携もやりたいんですが、それらは本体が HTML なので、 Markdown への自動変換とかうまくいくんだろうかという)
 
 - [Issue](https://github.com/tearoom6/sync-sync/issues)
 - 可能なら [Pull Request](https://github.com/tearoom6/sync-sync/pulls)
