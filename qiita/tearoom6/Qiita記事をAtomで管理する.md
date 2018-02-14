@@ -19,6 +19,7 @@ https://atom.io/packages/sync-sync
       - esa.io はチーム名指定
       - DocBase はドメイン指定
       - Confluence はドメイン、スペース指定
+      - Backlog はスペース指定
    - 取り込んだ記事はローカルのディレクトリ指定で最新状態に更新できます
    - 各ファイルを指定することで、ファイル指定で最新状態に更新できます
       - Import の際にローカル側で未反映の変更がある場合は、そのファイルは Import をスキップします
@@ -44,6 +45,8 @@ https://atom.io/packages/sync-sync
    - https://{domain}.docbase.io/settings/profile から API Token を発行
 - Confluence
    - https://id.atlassian.com/manage/api-tokens から API Token を発行
+- Backlog
+   - https://{spaceKey}.backlog.jp/EditApiSettings.action から API Key を発行
 
 
 ## 設計
@@ -55,6 +58,7 @@ https://atom.io/packages/sync-sync
    - esa.io は、 category が事実上ディレクトリのような扱いなので、ローカルでも Import 時はその構成を再現するようにしました
    - DocBase の場合は、 group と scope というのがあり、これらはメタ情報として制御可能にしました
    - Confluence の場合は、本体が HTML として保存されているため、 Markdown として出力できるオプションを付けました
+   - Backlog の場合は Markdown or Backlog wiki 記法を選択可能なので、プロジェクト設定から取得するようにしました
    - 各サービスとも tag はメタ情報として制御可能にしました
    - 各サービスとも WIP 状態は未実装です
 - ポータブルにするため、設定ファイルは `~/.atom` ではなく、 Atom でプロジェクトとして開いたディレクトリルートに作るようにしています
