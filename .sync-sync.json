@@ -1,4 +1,20 @@
 {
+  "backlog": {
+    "items": {
+    }
+  },
+  "confluence": {
+    "items": {
+    }
+  },
+  "docbase": {
+    "items": {
+    }
+  },
+  "esa": {
+    "items": {
+    }
+  },
   "qiita": {
     "items": {
       "0421542cc826eaf5f866": {
@@ -161,6 +177,18 @@
         "url": "https://qiita.com/tearoom6/items/86d87620f9fe10edc71b",
         "userName": "tearoom6"
       },
+      "8d3cb67a1bc4e454e989": {
+        "digest": "265341390c4c0c243c7c6e33b33d6224524ccd1b",
+        "path": "qiita/tearoom6/Ruby open-uri の open の返却値.md",
+        "tags": [
+          "Ruby",
+          "open-uri"
+        ],
+        "title": "Ruby open-uri の open の返却値",
+        "updatedAt": "2018-02-16T11:11:12+09:00",
+        "url": "https://qiita.com/tearoom6/items/8d3cb67a1bc4e454e989",
+        "userName": "tearoom6"
+      },
       "9174e23d7d061659b177": {
         "digest": "d7e519ba9634748e38baeeac34e2b3539c865f6b",
         "path": "qiita/tearoom6/'Deploy to Heroku' Buttonを追加してみた.md",
@@ -186,6 +214,17 @@
         "title": "Qiita記事をAtomで管理する",
         "updatedAt": "2018-02-14T10:40:34+09:00",
         "url": "https://qiita.com/tearoom6/items/9518195fcd92bb87b9d0",
+        "userName": "tearoom6"
+      },
+      "b14913161250b2b30d0f": {
+        "digest": "9a79db04baf805b85a42c684d7587d839f62edd0",
+        "path": "qiita/tearoom6/docker login での Sign in について.md",
+        "tags": [
+          "docker"
+        ],
+        "title": "docker login での Sign in について",
+        "updatedAt": "2018-02-16T12:17:09+09:00",
+        "url": "https://qiita.com/tearoom6/items/b14913161250b2b30d0f",
         "userName": "tearoom6"
       },
       "bc1c021524bf2fd973fc": {
