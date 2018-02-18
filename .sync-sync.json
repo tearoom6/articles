@@ -178,14 +178,14 @@
         "userName": "tearoom6"
       },
       "8d3cb67a1bc4e454e989": {
-        "digest": "265341390c4c0c243c7c6e33b33d6224524ccd1b",
-        "path": "qiita/tearoom6/Ruby open-uri の open の返却値.md",
+        "digest": "940dcf679790ed955ffdf5a68d454fb4089187f5",
+        "path": "qiita/tearoom6/Ruby open-uri の open の戻り値.md",
         "tags": [
           "Ruby",
           "open-uri"
         ],
-        "title": "Ruby open-uri の open の返却値",
-        "updatedAt": "2018-02-16T11:11:12+09:00",
+        "title": "Ruby open-uri の open の戻り値",
+        "updatedAt": "2018-02-18T14:11:54+09:00",
         "url": "https://qiita.com/tearoom6/items/8d3cb67a1bc4e454e989",
         "userName": "tearoom6"
       },

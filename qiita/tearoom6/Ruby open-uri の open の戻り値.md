@@ -1,4 +1,4 @@
-# Ruby open-uri の open の返却値
+# Ruby open-uri の open の戻り値
 
 ## Ruby open-uri ライブラリの open メソッド
 
