@@ -202,17 +202,17 @@
         "userName": "tearoom6"
       },
       "9518195fcd92bb87b9d0": {
-        "digest": "cdb7098d4bc97605a4713eae80ccda6371cb7617",
-        "path": "qiita/tearoom6/Qiita記事をAtomで管理する.md",
+        "digest": "f04e468031782f5455e72e013dd7c019ad62b74c",
+        "path": "qiita/tearoom6/ドキュメント管理の将来設計.md",
         "tags": [
           "Qiita",
+          "Git",
+          "Markdown",
           "ATOM",
-          "confluence",
-          "esa",
-          "DocBase"
+          "confluence"
         ],
-        "title": "Qiita記事をAtomで管理する",
-        "updatedAt": "2018-02-14T10:40:34+09:00",
+        "title": "ドキュメント管理の将来設計",
+        "updatedAt": "2018-02-20T00:46:06+09:00",
         "url": "https://qiita.com/tearoom6/items/9518195fcd92bb87b9d0",
         "userName": "tearoom6"
       },
