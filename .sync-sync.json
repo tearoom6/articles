@@ -314,5 +314,105 @@
       }
     },
     "userName": "tearoom6"
+  },
+  "wordpressCom": {
+    "items": {
+      "10": {
+        "authorId": 46490831,
+        "categories": [
+          "Facebook SDK"
+        ],
+        "digest": "70e0829f571dfcbd338476220dfb0ef95b14e2f3",
+        "format": "standard",
+        "parent": false,
+        "path": "wordpress.com/tearoom6/Facebook Graph API - Event.html",
+        "siteId": 47458493,
+        "status": "publish",
+        "sticky": false,
+        "tags": [
+          "Event",
+          "Facebook",
+          "Graph API"
+        ],
+        "title": "Facebook Graph API - Event",
+        "type": "post",
+        "updatedAt": "2018-02-24T12:56:19+09:00",
+        "url": "https://tearoom6.wordpress.com/2013/02/24/facebook-graph-api-event/"
+      },
+      "18": {
+        "authorId": 46490831,
+        "categories": [
+          "Windows8"
+        ],
+        "digest": "262219ad4b0c17db0fa4aa9e1fff43ba57f9c5f1",
+        "format": "standard",
+        "parent": false,
+        "path": "wordpress.com/tearoom6/Windows8 TIPS.html",
+        "siteId": 47458493,
+        "status": "publish",
+        "sticky": false,
+        "tags": [
+          "Microsoft",
+          "shutdown",
+          "Start menu",
+          "Taskbar",
+          "Windows8"
+        ],
+        "title": "Windows8 TIPS",
+        "type": "post",
+        "updatedAt": "2013-02-24T01:57:47+09:00",
+        "url": "https://tearoom6.wordpress.com/2013/02/24/shutdown/"
+      },
+      "3": {
+        "authorId": 46490831,
+        "categories": [
+          "GAE for Java"
+        ],
+        "digest": "cbe29095843e8fe907aba7e6edf93162af4063f4",
+        "format": "standard",
+        "parent": false,
+        "path": "wordpress.com/tearoom6/Google Web Toolkit Developer Plugin.html",
+        "siteId": 47458493,
+        "status": "publish",
+        "sticky": false,
+        "tags": [
+          "Chrome",
+          "Environment",
+          "Google App Engine",
+          "Google Web Toolkit",
+          "Java",
+          "Test",
+          "Windows8"
+        ],
+        "title": "Google Web Toolkit Developer Plugin",
+        "type": "post",
+        "updatedAt": "2013-02-24T01:16:30+09:00",
+        "url": "https://tearoom6.wordpress.com/2013/02/24/google-web-toolkit-developer-plugin/"
+      },
+      "7": {
+        "authorId": 46490831,
+        "categories": [
+          "Facebook SDK"
+        ],
+        "digest": "87d2c306fbcf4683557855d493683b48082e3784",
+        "format": "standard",
+        "parent": false,
+        "path": "wordpress.com/tearoom6/Facebook JavaScript SDK basic usage.html",
+        "siteId": 47458493,
+        "status": "publish",
+        "sticky": false,
+        "tags": [
+          "Facebook",
+          "GraphAPI",
+          "JavaScript",
+          "JavaScript SDK"
+        ],
+        "title": "Facebook JavaScript SDK basic usage",
+        "type": "post",
+        "updatedAt": "2013-02-24T00:58:09+09:00",
+        "url": "https://tearoom6.wordpress.com/2013/02/24/facebook-javascript-sdk-basic-usage/"
+      }
+    },
+    "site": "tearoom6.wordpress.com"
   }
 }
