@@ -422,5 +422,31 @@
       }
     },
     "site": "tearoom6.wordpress.com"
+  },
+  "wordpressOrg": {
+    "baseUrl": "https://blog.tearoom6.biz",
+    "items": {
+      "48": {
+        "authorId": 2,
+        "baseUrl": "https://blog.tearoom6.biz",
+        "categories": [
+          4
+        ],
+        "digest": "bdcea6d5b5b2447b26a8abef05b156e370cbf2d7",
+        "format": "standard",
+        "path": "wordpress.org/tearoom6/AWS 料金通知.html",
+        "publishedAt": "2017-12-10T16:12:03",
+        "status": "publish",
+        "sticky": false,
+        "tags": [
+          5,
+          6
+        ],
+        "title": "AWS 料金通知",
+        "type": "post",
+        "updatedAt": "2018-02-24T15:33:52",
+        "url": "https://blog.tearoom6.biz/2017/12/10/aws_post_estimated_charges/"
+      }
+    }
   }
 }
