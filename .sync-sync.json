@@ -335,17 +335,19 @@
         ],
         "digest": "bdcea6d5b5b2447b26a8abef05b156e370cbf2d7",
         "format": "standard",
-        "path": "wordpress.org/tearoom6/AWS 料金通知.html",
+        "path": "wordpress.org/tearoom6/AWS 料金通知.md",
         "publishedAt": "2017-12-10T16:12:03",
         "status": "publish",
         "sticky": false,
         "tags": [
+          7,
           5,
+          8,
           6
         ],
         "title": "AWS 料金通知",
         "type": "post",
-        "updatedAt": "2018-02-24T15:33:52",
+        "updatedAt": "2018-03-10T08:42:05",
         "url": "https://blog.tearoom6.biz/2017/12/10/aws_post_estimated_charges/"
       }
     }
