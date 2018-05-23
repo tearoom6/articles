@@ -26,7 +26,7 @@
    - すません、LINEさん、やっぱ太っ腹でした！！
 - スマホアプリのほか、Web の [LINE@ Manager](https://admin-official.line.me/) でも管理できて、送信メッセージの予約ができるので、今回の要件にもぴったし！
 
-![line_manager.png](https://qiita-image-store.s3.amazonaws.com/0/54750/a5e5e675-6365-6530-e849-19a4ba123d5a.png "line_manager.png")
+![line@_message.png](http://files.tearoom6.biz/89c87731-3029-4c50-9bc9-f0eeaed9dbc1.png)
 
 ### 断念理由
 
