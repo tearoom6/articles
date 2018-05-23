@@ -380,6 +380,44 @@
         "type": "post",
         "updatedAt": "2018-05-03T18:58:54",
         "url": "https://blog.tearoom6.biz/archives/77"
+      },
+      "82": {
+        "authorId": 2,
+        "baseUrl": "https://blog.tearoom6.biz",
+        "categories": [
+          11
+        ],
+        "format": "standard",
+        "pathOnlyExport": "wordpress.org/tearoom6/OpenSearch について.md",
+        "publishedAt": "2018-05-23T00:14:00",
+        "status": "publish",
+        "sticky": false,
+        "tags": [
+          12
+        ],
+        "title": "OpenSearch について",
+        "type": "post",
+        "updatedAt": "2018-05-23T00:15:39",
+        "url": "https://blog.tearoom6.biz/archives/82"
+      },
+      "84": {
+        "authorId": 2,
+        "baseUrl": "https://blog.tearoom6.biz",
+        "categories": [
+          11
+        ],
+        "format": "standard",
+        "pathOnlyExport": "wordpress.org/tearoom6/Chrome キャッシュクリア.md",
+        "publishedAt": "2018-05-23T00:16:07",
+        "status": "publish",
+        "sticky": false,
+        "tags": [
+          12
+        ],
+        "title": "Chrome キャッシュクリア",
+        "type": "post",
+        "updatedAt": "2018-05-23T00:16:07",
+        "url": "https://blog.tearoom6.biz/archives/84"
       }
     }
   }
