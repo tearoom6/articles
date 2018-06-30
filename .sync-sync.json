@@ -56,6 +56,17 @@
         "url": "https://qiita.com/tearoom6/items/1028b05ce049e6fb8e24",
         "userName": "tearoom6"
       },
+      "142d0f0d35ed32745f0c": {
+        "digest": "67c94f98c16d3699a5f3a806cf722ea3a54035cc",
+        "path": "wordpress.org/tearoom6/Chrome キャッシュクリア.md",
+        "tags": [
+          "Chrome"
+        ],
+        "title": "Chrome キャッシュクリア",
+        "updatedAt": "2018-06-30T16:44:53+09:00",
+        "url": "https://qiita.com/tearoom6/items/142d0f0d35ed32745f0c",
+        "userName": "tearoom6"
+      },
       "1abf24ca6d872e6579b0": {
         "digest": "7369a555e2bec0274d76b1ed6fbf945122152b8a",
         "path": "qiita/tearoom6/brew tap で入れる Homebrew 外部コマンド.md",
@@ -114,6 +125,17 @@
         "title": "妻の誕生日にLINEでサプライズメッセージを送る",
         "updatedAt": "2018-06-30T16:38:55+09:00",
         "url": "https://qiita.com/tearoom6/items/52f68d404571ed21b94a",
+        "userName": "tearoom6"
+      },
+      "5c9024a9b4dd503585df": {
+        "digest": "397c7f169c21f1d06a01f20f13cbb823bc46f379",
+        "path": "wordpress.org/tearoom6/OpenSearch について.md",
+        "tags": [
+          "OpenSearch"
+        ],
+        "title": "OpenSearch について",
+        "updatedAt": "2018-06-30T16:45:23+09:00",
+        "url": "https://qiita.com/tearoom6/items/5c9024a9b4dd503585df",
         "userName": "tearoom6"
       },
       "5dea8cabda417785cff8": {
