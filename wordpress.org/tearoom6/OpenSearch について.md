@@ -1,13 +1,13 @@
 Chrome のアドレスバーに特定の文字列を打ち込んで、直後にスペースを入れると、下画像のように `Search XXX |` みたいな表示に切り替わることがあると思います。
 
-![opensearch_address_bar.png](http://files.tearoom6.biz/9e838e26-68cb-4009-bfb4-4f24c9716ab6.png)
+![opensearch_address_bar.png](https://files.tearoom6.biz/9e838e26-68cb-4009-bfb4-4f24c9716ab6.png)
 
 これは OpenSearch という仕様の Autodiscovery 機能に対応した Chrome の実装となっています。
 OpenSearch 自体は Chrome 以外でも有効な標準仕様ですが、以下では Chrome を前提に記載します。
 
 OpenSearch 対応しているサイトでは、 HTML ヘッダに以下のような `link` タグが設置されています。
 
-![opensearch_link.png](http://files.tearoom6.biz/221cdf76-c050-477b-bcd1-d282f7023d24.png)
+![opensearch_link.png](https://files.tearoom6.biz/221cdf76-c050-477b-bcd1-d282f7023d24.png)
 
 ```html
 <link rel="search" type="application/opensearchdescription+xml" title="RubyGems.org" href="/opensearch.xml">

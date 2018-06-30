@@ -6,7 +6,7 @@ Chrome の場合は、以下のいずれかの手順で "Hard Reload" が可能�
 - shift を押しながら更新ボタンクリック
 - ショートカットコマンド: command + shift + r (macOS)
 
-![chrome_refresh.png](http://files.tearoom6.biz/e04a11c9-070f-469c-8a0e-20917ab2b076.png)
+![chrome_refresh.png](https://files.tearoom6.biz/e04a11c9-070f-469c-8a0e-20917ab2b076.png)
 
 この "Hard Reload" が通常の "Soft Reload" と何が違うのでしょう?
 
