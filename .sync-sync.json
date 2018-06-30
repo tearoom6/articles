@@ -542,6 +542,25 @@
         "type": "post",
         "updatedAt": "2018-06-30T11:45:37",
         "url": "https://blog.tearoom6.biz/archives/92"
+      },
+      "93": {
+        "authorId": 2,
+        "baseUrl": "https://blog.tearoom6.biz",
+        "categories": [
+          1
+        ],
+        "format": "standard",
+        "pathOnlyExport": "wordpress.org/tearoom6/dein.vim キャッシュクリア.md",
+        "publishedAt": "2018-06-30T12:24:26",
+        "status": "publish",
+        "sticky": false,
+        "tags": [
+          17
+        ],
+        "title": "dein.vim キャッシュクリア",
+        "type": "post",
+        "updatedAt": "2018-06-30T12:24:26",
+        "url": "https://blog.tearoom6.biz/archives/93"
       }
     }
   }
