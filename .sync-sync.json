@@ -150,6 +150,20 @@
         "url": "https://qiita.com/tearoom6/items/5dea8cabda417785cff8",
         "userName": "tearoom6"
       },
+      "750aac4276ba4d8334b6": {
+        "digest": "19b481810943635e329622ee15b461e24e72b67b",
+        "path": "wordpress.org/tearoom6/S3+CloudFrontでHTTPSホスティング.md",
+        "tags": [
+          "AWS",
+          "S3",
+          "HTTPS",
+          "CloudFront"
+        ],
+        "title": "S3+CloudFrontでHTTPSホスティング",
+        "updatedAt": "2018-06-30T16:53:45+09:00",
+        "url": "https://qiita.com/tearoom6/items/750aac4276ba4d8334b6",
+        "userName": "tearoom6"
+      },
       "77092556ae30e6b151a6": {
         "digest": "9dbc159b05779d27ee598c698286a7f651583766",
         "path": "qiita/tearoom6/JRuby から Amazon Athena を利用.md",
@@ -478,6 +492,25 @@
         "type": "post",
         "updatedAt": "2018-06-14T21:48:59",
         "url": "https://blog.tearoom6.biz/archives/86"
+      },
+      "91": {
+        "authorId": 2,
+        "baseUrl": "https://blog.tearoom6.biz",
+        "categories": [
+          4
+        ],
+        "format": "standard",
+        "pathOnlyExport": "wordpress.org/tearoom6/S3+CloudFrontでHTTPSホスティング.md",
+        "publishedAt": "2018-06-30T07:55:44",
+        "status": "publish",
+        "sticky": false,
+        "tags": [
+          5
+        ],
+        "title": "S3+CloudFrontでHTTPSホスティング",
+        "type": "post",
+        "updatedAt": "2018-06-30T07:55:44",
+        "url": "https://blog.tearoom6.biz/archives/91"
       }
     }
   }
