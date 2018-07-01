@@ -102,6 +102,18 @@
         "url": "https://qiita.com/tearoom6/items/2eb1c5615b1bd858d270",
         "userName": "tearoom6"
       },
+      "30e3aacaa432860d4b36": {
+        "digest": "b8469837734fcb51b124c8651f3c2c83a6407d38",
+        "path": "wordpress.org/tearoom6/HTTP CSP について.md",
+        "tags": [
+          "HTTP",
+          "CSP"
+        ],
+        "title": "HTTP CSP について",
+        "updatedAt": "2018-07-02T08:51:07+09:00",
+        "url": "https://qiita.com/tearoom6/items/30e3aacaa432860d4b36",
+        "userName": "tearoom6"
+      },
       "4099ed5d0d8c3ab7867e": {
         "digest": "ef1190cc19c7b5147c0bca41d274a11a1145b90a",
         "path": "qiita/tearoom6/コーディング初心者に伝えたい、きれいなコードを書くためのたった7つのこと.md",
@@ -612,6 +624,26 @@
         "type": "post",
         "updatedAt": "2018-06-30T15:37:02",
         "url": "https://blog.tearoom6.biz/archives/95"
+      },
+      "96": {
+        "authorId": 2,
+        "baseUrl": "https://blog.tearoom6.biz",
+        "categories": [
+          11
+        ],
+        "format": "standard",
+        "pathOnlyExport": "wordpress.org/tearoom6/HTTP CSP について.md",
+        "publishedAt": "2018-07-01T23:53:22",
+        "status": "publish",
+        "sticky": false,
+        "tags": [
+          21,
+          20
+        ],
+        "title": "HTTP CSP について",
+        "type": "post",
+        "updatedAt": "2018-07-01T23:53:22",
+        "url": "https://blog.tearoom6.biz/archives/96"
       }
     }
   }
