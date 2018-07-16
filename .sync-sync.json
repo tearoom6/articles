@@ -67,6 +67,18 @@
         "url": "https://qiita.com/tearoom6/items/142d0f0d35ed32745f0c",
         "userName": "tearoom6"
       },
+      "1831544d56ed3f8215eb": {
+        "digest": "97520ddf4d07fc23c698ea8e8d43d71605025732",
+        "path": "wordpress.org/tearoom6/HTTP Strict Transport Security.md",
+        "tags": [
+          "HTTP",
+          "hsts"
+        ],
+        "title": "HTTP Strict Transport Security",
+        "updatedAt": "2018-07-16T23:48:40+09:00",
+        "url": "https://qiita.com/tearoom6/items/1831544d56ed3f8215eb",
+        "userName": "tearoom6"
+      },
       "1abf24ca6d872e6579b0": {
         "digest": "7369a555e2bec0274d76b1ed6fbf945122152b8a",
         "path": "qiita/tearoom6/brew tap で入れる Homebrew 外部コマンド.md",
@@ -644,6 +656,25 @@
         "type": "post",
         "updatedAt": "2018-07-01T23:53:22",
         "url": "https://blog.tearoom6.biz/archives/96"
+      },
+      "97": {
+        "authorId": 2,
+        "baseUrl": "https://blog.tearoom6.biz",
+        "categories": [
+          11
+        ],
+        "format": "standard",
+        "pathOnlyExport": "wordpress.org/tearoom6/HTTP Strict Transport Security.md",
+        "publishedAt": "2018-07-16T14:47:54",
+        "status": "publish",
+        "sticky": false,
+        "tags": [
+          20
+        ],
+        "title": "HTTP Strict Transport Security",
+        "type": "post",
+        "updatedAt": "2018-07-16T14:47:54",
+        "url": "https://blog.tearoom6.biz/archives/97"
       }
     }
   }
