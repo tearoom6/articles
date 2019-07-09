@@ -260,6 +260,21 @@
         "updatedAt": "2019-07-07T23:33:17+09:00",
         "url": "http://tearoom6.hateblo.jp/entry/2019/07/07/233317",
         "userId": "tearoom6"
+      },
+      "17680117127216084325": {
+        "author": "tearoom6",
+        "blogId": "tearoom6.hateblo.jp",
+        "categories": [
+        ],
+        "contentType": "text/x-markdown",
+        "digest": "129881ff697e408340f7cace16b369fe3f0a6ab7",
+        "isDraft": "no",
+        "path": "hatena/tearoom6/ソフトウェア成長曲線.md",
+        "publishedAt": "2019-07-10T00:54:14+09:00",
+        "title": "ソフトウェア成長曲線",
+        "updatedAt": "2019-07-10T00:54:14+09:00",
+        "url": "http://tearoom6.hateblo.jp/entry/2019/07/10/005414",
+        "userId": "tearoom6"
       }
     },
     "userId": "tearoom6"
