@@ -275,6 +275,24 @@
         "updatedAt": "2019-07-10T00:54:14+09:00",
         "url": "http://tearoom6.hateblo.jp/entry/2019/07/10/005414",
         "userId": "tearoom6"
+      },
+      "17680117127220368070": {
+        "author": "tearoom6",
+        "blogId": "tearoom6.hateblo.jp",
+        "categories": [
+          "yarn",
+          "gulp",
+          "babel"
+        ],
+        "contentType": "text/x-markdown",
+        "digest": "a65f869135a4c51264b3e7655f9f6faf0343797f",
+        "isDraft": "no",
+        "path": "hatena/tearoom6/NPMリポジトリの依存ライブラリアップデート.md",
+        "publishedAt": "2019-07-19T01:51:28+09:00",
+        "title": "NPMリポジトリの依存ライブラリアップデート",
+        "updatedAt": "2019-07-19T01:53:47+09:00",
+        "url": "https://tearoom6.hateblo.jp/entry/2019/07/19/015128",
+        "userId": "tearoom6"
       }
     },
     "userId": "tearoom6"
@@ -636,6 +654,19 @@
         "title": "AWS EC2 上で Hubot を動かす",
         "updatedAt": "2016-02-13T14:31:36+09:00",
         "url": "https://qiita.com/tearoom6/items/c888c7eb20612bf8d6ef",
+        "userName": "tearoom6"
+      },
+      "d395700302a0caaee13d": {
+        "digest": "a65f869135a4c51264b3e7655f9f6faf0343797f",
+        "path": "hatena/tearoom6/NPMリポジトリの依存ライブラリアップデート.md",
+        "tags": [
+          "gulp",
+          "YARN",
+          "babel"
+        ],
+        "title": "NPMリポジトリの依存ライブラリアップデート",
+        "updatedAt": "2019-07-19T01:53:51+09:00",
+        "url": "https://qiita.com/tearoom6/items/d395700302a0caaee13d",
         "userName": "tearoom6"
       },
       "dfebed94f1efbddd8962": {
