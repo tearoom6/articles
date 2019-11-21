@@ -293,6 +293,22 @@
         "updatedAt": "2019-07-19T01:53:47+09:00",
         "url": "https://tearoom6.hateblo.jp/entry/2019/07/19/015128",
         "userId": "tearoom6"
+      },
+      "26006613469187333": {
+        "author": "tearoom6",
+        "blogId": "tearoom6.hateblo.jp",
+        "categories": [
+          "rails"
+        ],
+        "contentType": "text/x-markdown",
+        "digest": "6df27e6264a9a038b3f71cb85e2999ac7bc21784",
+        "isDraft": "no",
+        "path": "hatena/tearoom6/ActiveRecord でのデフォルト値設定.md",
+        "publishedAt": "2019-11-21T22:17:33+09:00",
+        "title": "ActiveRecord でのデフォルト値設定",
+        "updatedAt": "2019-11-21T22:17:33+09:00",
+        "url": "https://tearoom6.hateblo.jp/entry/2019/11/21/221733",
+        "userId": "tearoom6"
       }
     },
     "userId": "tearoom6"
@@ -336,6 +352,17 @@
         "title": "Chrome キャッシュクリア",
         "updatedAt": "2018-06-30T16:44:53+09:00",
         "url": "https://qiita.com/tearoom6/items/142d0f0d35ed32745f0c",
+        "userName": "tearoom6"
+      },
+      "15d29b5ce8b3d0c0048c": {
+        "digest": "6df27e6264a9a038b3f71cb85e2999ac7bc21784",
+        "path": "hatena/tearoom6/ActiveRecord でのデフォルト値設定.md",
+        "tags": [
+          "Rails"
+        ],
+        "title": "ActiveRecord でのデフォルト値設定",
+        "updatedAt": "2019-11-21T22:17:42+09:00",
+        "url": "https://qiita.com/tearoom6/items/15d29b5ce8b3d0c0048c",
         "userName": "tearoom6"
       },
       "1831544d56ed3f8215eb": {
