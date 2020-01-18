@@ -309,6 +309,23 @@
         "updatedAt": "2019-11-21T22:17:33+09:00",
         "url": "https://tearoom6.hateblo.jp/entry/2019/11/21/221733",
         "userId": "tearoom6"
+      },
+      "26006613499591632": {
+        "author": "tearoom6",
+        "blogId": "tearoom6.hateblo.jp",
+        "categories": [
+          "java",
+          "macos"
+        ],
+        "contentType": "text/x-markdown",
+        "digest": "962051a5fff8ce808ffd17822aaad87b1aa31a34",
+        "isDraft": "no",
+        "path": "hatena/tearoom6/macOS での Java のバージョン管理.md",
+        "publishedAt": "2020-01-19T07:37:54+09:00",
+        "title": "macOS での Java のバージョン管理",
+        "updatedAt": "2020-01-19T07:37:54+09:00",
+        "url": "https://tearoom6.hateblo.jp/entry/2020/01/19/073754",
+        "userId": "tearoom6"
       }
     },
     "userId": "tearoom6"
@@ -319,6 +336,18 @@
   },
   "qiita": {
     "items": {
+      "036d5e9c186248669457": {
+        "digest": "962051a5fff8ce808ffd17822aaad87b1aa31a34",
+        "path": "hatena/tearoom6/macOS での Java のバージョン管理.md",
+        "tags": [
+          "Java",
+          "macos"
+        ],
+        "title": "macOS での Java のバージョン管理",
+        "updatedAt": "2020-01-19T07:38:06+09:00",
+        "url": "https://qiita.com/tearoom6/items/036d5e9c186248669457",
+        "userName": "tearoom6"
+      },
       "0421542cc826eaf5f866": {
         "digest": "8d9dcd898c9949dd71d33da1dbde664bb6214558",
         "path": "qiita/tearoom6/tmux で複数サーバに一発でssh接続.md",
