@@ -66,7 +66,7 @@ Learn hints to solve problems from breakthroughs of other fields.
 
 下の動画で、作業過程がよく分かる。
 
-https://www.youtube.com/watch?v=qityGWgQaB0
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qityGWgQaB0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **マストコラムクライミング (mast column climbing)**
 
@@ -75,7 +75,7 @@ https://www.youtube.com/watch?v=qityGWgQaB0
 
 下の動画なんかが、たぶんそれ。
 
-https://www.youtube.com/watch?v=yWoxCnIxgys
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yWoxCnIxgys" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### タワークレーンの撤去方法
@@ -102,7 +102,7 @@ https://www.youtube.com/watch?v=yWoxCnIxgys
 
 これなんか見てると、途中で、フロアクライミングから、マストクライミングに切り替えているのがよく分かる。
 
-https://www.youtube.com/watch?v=ACImkWdehXk
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ACImkWdehXk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### まとめ
