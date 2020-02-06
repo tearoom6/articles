@@ -114,6 +114,8 @@ Learn hints to solve problems from breakthroughs of other fields.
 一体どうやったらできるのか検討もつかない大きな仕事も、小さなタスクに細かく分けて考えることで、案外実現できたりする。
 一気に解決しようとするのではなく、 `これをやるにはこれができれば OK` と細かくタスクを breakdown していけば、正解に至る道が開けたりするものだ。
 
+**他の "謎テク" シリーズの記事は [こちら](https://tearoom6.hateblo.jp/archive/category/%E8%AC%8E%E6%8A%80%E8%A1%93)**
+
 > References
 
 - [タワークレーンクライミング方法・組立解体の手順を写真画像で謎解く](https://tobisyoku.net/tower.htm)
