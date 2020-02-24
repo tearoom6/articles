@@ -114,3 +114,5 @@ https://www.google.com/maps/place/Mitakadai+Station/@35.6922447,139.5889205,15z/
 ネットで見つかった手事なところを、実際に不動産会社に問い合わせて見に行きます。
 
 つづく。
+
+**他の "家探し" シリーズの記事は [こちら](https://tearoom6.hateblo.jp/archive/category/%E5%AE%B6%E6%8E%A2%E3%81%97)**
