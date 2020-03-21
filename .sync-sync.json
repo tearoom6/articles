@@ -301,7 +301,7 @@
           "rails"
         ],
         "contentType": "text/x-markdown",
-        "digest": "6df27e6264a9a038b3f71cb85e2999ac7bc21784",
+        "digest": "3e5dd514407ed19344cc22c4cd4ee5cb74ae49c1",
         "isDraft": "no",
         "path": "hatena/tearoom6/ActiveRecord でのデフォルト値設定.md",
         "publishedAt": "2019-11-21T22:17:33+09:00",
@@ -578,13 +578,13 @@
         "userName": "tearoom6"
       },
       "15d29b5ce8b3d0c0048c": {
-        "digest": "6df27e6264a9a038b3f71cb85e2999ac7bc21784",
+        "digest": "3e5dd514407ed19344cc22c4cd4ee5cb74ae49c1",
         "path": "hatena/tearoom6/ActiveRecord でのデフォルト値設定.md",
         "tags": [
           "Rails"
         ],
         "title": "ActiveRecord でのデフォルト値設定",
-        "updatedAt": "2019-11-21T22:17:42+09:00",
+        "updatedAt": "2020-03-21T20:41:21+09:00",
         "url": "https://qiita.com/tearoom6/items/15d29b5ce8b3d0c0048c",
         "userName": "tearoom6"
       },
