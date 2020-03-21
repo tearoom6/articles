@@ -44,6 +44,7 @@ history のオプションに関して、 `INC_APPEND_HISTORY` と `SHARE_HISTOR
 
 prompt での Git のステータス表示に関しては、 `vcs_info` というモジュールを使ってみた。
 push や stash のステータス表示を標準ではサポートしていないようで、以前に比べてそのあたりは不満はあるけど、カスタマイズはできるらしいし、まずは標準のまま使ってみる。
+(追記) 早速だけど、やっぱり不便を感じたし、 VCS っていってもほぼ Git しか使わないので、以前と同様 Git 公式の git-prompt.sh を使って、 prompt 表示を行うことにした。
 
 補完系に bash では [scop/bash-completion](https://github.com/scop/bash-completion) を使っていた。
 zsh は標準でもある程度のコマンド群をサポートしてくれているみたいだけど、追加で主要なものを追加しておく。
@@ -63,7 +64,7 @@ rm -rf ~/.zsh.d/completions/zsh-completions
 
 最終的にこんな感じになった。たぶん、使いながらちょいちょい変更することにはなるだろう。
 
-- [dotfiles/.zshrc](https://github.com/tearoom6/dotfiles/blob/8e9434b7308aeb0b44c7879497952f3ae51f0de2/.zshrc)
+- [dotfiles/.zshrc](https://github.com/tearoom6/dotfiles/blob/c00bb1f208e13d45d9c9171b59d40d7163fb5256/.zshrc)
 
 最後に以下のコマンドでバッツん切り替える。
 
@@ -96,6 +97,8 @@ chsh -s /bin/zsh
 - [shell - zsh config - to export or not to export? - Super User](https://superuser.com/questions/598810/)
 - [zshのターミナルにリポジトリの情報を表示してみる · けんごのお屋敷](http://tkengo.github.io/blog/2013/05/12/zsh-vcs-info/)
 - [zsh の vcs_info に独自の処理を追加して stash 数とか push していない件数とか何でも表示する - Qiita](https://qiita.com/mollifier/items/8d5a627d773758dd8078)
+- [Git - Git in Zsh](https://git-scm.com/book/tr/v2/Appendix-A%3A-Git-in-Other-Environments-Git-in-Zsh)
+- [[macOS]zshでgitのブランチ名を表示させる - 村上 幸雄 - Medium](https://medium.com/@m_yukio/fe04afabb5b8)
 - [zshのメニュー補完で候補をインタラクティブに絞り込む - Qiita](https://qiita.com/ToruIwashita/items/5cfa382e9ae2bd0502be)
 - [今更ながらzshのREPORTTIME便利 - キモブロ](http://kimoto.hatenablog.com/entry/2012/08/14/112500)
 - [command line - CTRL-a and CTRL-e map incorrectly in tmux - Ask Ubuntu](https://askubuntu.com/questions/1155199/)
