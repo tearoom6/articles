@@ -50,11 +50,12 @@ OpenJDK 自体は無償で利用できますし、この流れを受けて、 Op
 こちらの方法では、インストーラや Homebrew を使ってインストールした Java のバージョンの切り替えを行えます。
 
 例えば Homebrew で以下のように AdoptOpenJDK 最新版をインストールします。
-macOS Catalina では、以下のように `--no-quarantine` option が必要です。
+macOS Catalina では、以下のように `--no-quarantine` option が必要です(*)。
 
 ```sh
 $ brew cask install adoptopenjdk --no-quarantine
 ```
+(*) ちなみに`--no-quarantine` optionをつけ忘れた場合でも`xattr -d com.apple.quarantine /Library/Java/JavaVirtualMachines/adoptopenjdk-13.0.1.jdk`のようにすれば検疫属性を削除して起動できるようになります。
 
 インストールした Java の一覧は、以下のコマンドで確認できます。 `/Library/Java/JavaVirtualMachines/` 配下にあるものだけが表示されるようです。
 ちなみに、このディレクトリはシステムベースのもので、 SDKMAN! はユーザベースでモジュールを管理することから、 SDKMAN! でインストールした Java はこのディレクトリには配置されず、したがってこのコマンドの結果には出てきません。
