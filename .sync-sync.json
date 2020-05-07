@@ -520,6 +520,22 @@
         "updatedAt": "2020-03-21T18:21:29+09:00",
         "url": "https://tearoom6.hateblo.jp/entry/2020/03/21/174535",
         "userId": "tearoom6"
+      },
+      "26006613563682524": {
+        "author": "tearoom6",
+        "blogId": "tearoom6.hateblo.jp",
+        "categories": [
+          "macOS"
+        ],
+        "contentType": "text/x-markdown",
+        "digest": "0c9d4191ec56f1f4ccabb0ee0535ab06a320d24b",
+        "isDraft": "no",
+        "path": "hatena/tearoom6/macOS Legacy System Extensions.md",
+        "publishedAt": "2020-05-08T03:11:33+09:00",
+        "title": "macOS Legacy System Extensions",
+        "updatedAt": "2020-05-08T03:11:33+09:00",
+        "url": "https://tearoom6.hateblo.jp/entry/2020/05/08/031133",
+        "userId": "tearoom6"
       }
     },
     "userId": "tearoom6"
@@ -609,6 +625,17 @@
         "title": "brew tap で入れる Homebrew 外部コマンド",
         "updatedAt": "2016-02-15T00:14:43+09:00",
         "url": "https://qiita.com/tearoom6/items/1abf24ca6d872e6579b0",
+        "userName": "tearoom6"
+      },
+      "1ff57b12411bf8a91a3c": {
+        "digest": "0c9d4191ec56f1f4ccabb0ee0535ab06a320d24b",
+        "path": "hatena/tearoom6/macOS Legacy System Extensions.md",
+        "tags": [
+          "macos"
+        ],
+        "title": "macOS Legacy System Extensions",
+        "updatedAt": "2020-05-08T03:19:20+09:00",
+        "url": "https://qiita.com/tearoom6/items/1ff57b12411bf8a91a3c",
         "userName": "tearoom6"
       },
       "25a8df731d8cdd2eaa14": {
