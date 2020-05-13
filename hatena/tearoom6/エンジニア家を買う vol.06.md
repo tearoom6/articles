@@ -19,7 +19,7 @@
 とはいえ、実際に行ってみないことには、何事も判断できません。
 今度は、 HELLO CYCLING というサービスの [高木ビル　三鷹](https://cycle.ryde-go.com/ports/3333) という拠点のレンタサイクルを借りて、三鷹駅から自転車でルート確認をしてみます。
 
-![myhome_06_bicycle_route copy.png](https://files.tearoom6.biz/dae32164-0504-411b-b0d2-9e7f8a373f03.png)
+![myhome_06_bicycle_route.png](https://files.tearoom6.biz/dae32164-0504-411b-b0d2-9e7f8a373f03.png)
 © Google Maps
 
 実際に行ってみたところ、やはり三鷹通りには、自転車専用道がなく、いわゆる車道の端を走る、よくある感じになります。言っても大通りですし、車道も2車線なので、大きなバスやトラックが来たときは多少なり身構える感じになります。
