@@ -89,7 +89,11 @@ tearoom6.github.io.     3600    IN      A       185.199.108.153
 
 ![google_oauth_domain_verification.png](https://files.tearoom6.biz/b3a2aeb3-9726-4257-a0d3-35cd79ce4c3d.png)
 
-この状態で、再び Google APIs OAuth consent screen の編集ページに移動し、ページ最下部の "Submit for verification" を押します。カスタムドメインのところに "Use of this domain will be restricted until it is approved." みたいな警告が出たままですが、気にしません。
+この状態で、再び Google APIs OAuth consent screen の編集ページに移動します。同意画面に表示される内容に問題がないか、改めて確認します。
+
+![google_oauth_consent_screen_edit_form.png](https://files.tearoom6.biz/069b98cf-0274-4161-b1c6-aa75fd1ad2c3.png)
+
+そして、ページ最下部の "Submit for verification" を押します。カスタムドメインのところに "Use of this domain will be restricted until it is approved." みたいな警告が出たままですが、気にしません。
 
 ![google_oauth_consent_screen_submit_for_verification.png](https://files.tearoom6.biz/8da2c654-34a7-4d7f-8213-a08a3401a9f0.png)
 
@@ -107,6 +111,57 @@ https://chrome.google.com/webstore/detail/quick-drive/aijfbconiilhjgfljolkoiaock
 ![google_oauth_consent_screen_being_verified.png](https://files.tearoom6.biz/91e9cdf7-7c29-4715-8314-8a6fea7e74d2.png)
 
 ともあれ、手順的にはこれであっているはず。審査が終わるのを待ちましょう。
+
+
+## その後の経過 (追記)
+
+僕の場合、4-6 週間どころか、2-3 日のうちに Google からメールが届きました。 (もちろん英語)
+おそらくコロナの問題もあるし、ワーストケースの想定だったんでしょうね。
+
+いろいろ注意事項が書かれていましたが、メインの依頼は OAuth の consent screen を許可する様子を映した動画を撮影し、公開できるところに置いて、このメールに返信してくれ、とのこと。
+ただ、 OAuth の verification はまだ済んでいないので、このままだと撮影しようにも撮れない。
+
+この Google のメールは、直接返信してやり取りしましょう、という方式だったので、返信メールの中で自分の開発者アカウントを指定して、このアカウントに対しては OAuth consent screen が表示される状態にしてほしい旨を連絡。そしたら 1 日以内に対応してくれました。 (test group というのに追加をしてもらえたようです)
+
+ただ、このアカウントは、既に OAuth 許可済みの状態だったので、一度これを解除する必要があります。
+Google のサービスに関して OAuth を許可した一覧は https://myaccount.google.com/permissions で取得できるので、ここから "Remove Access" を実行します。
+
+![google_oauth_remove_access.png](https://files.tearoom6.biz/e7900034-21e0-4501-a4fd-206c4f08822a.png)
+
+これで晴れて動画を撮影、 YouTube で公開します。
+
+https://youtu.be/r9PwxALHCX8
+
+緊張するので、このためにわざわざ原稿まで作りましたよ、、
+
+```
+Then i will explain how to permit the Quick Drive extension to use Google OAuth.
+First install the extension from Chrome web store.
+Next launch the extension.
+Choose the Google account you want.
+Then OAuth consent screen appears.
+You can see the app name, private policy, and which permission required.
+After that, This extension uses OAuth permission to retrieve your stared items, recent items, or search items.
+These data will never be sent to our server.
+The code is open source, so you can check this.
+That's all.
+```
+
+最終的に、承認を頂いて、 "Published" status に変わりました。
+
+![google_oauth_consent_screen_published.png](https://files.tearoom6.biz/ef485b31-1a96-4cd3-99ae-1b1c0df58d5a.png)
+
+この状態で、 OAuth 未承認の状態で Quick Drive extension を起動すると、以前のように、まずアカウント選択画面が出てきて、
+
+![google_oauth_flow_choose_account.png](https://files.tearoom6.biz/02c62992-3b64-4cfe-8e1f-3ad587a86f52.png)
+
+次に同意画面が開きます。
+
+![google_oauth_flow_consent_screen.png](https://files.tearoom6.biz/402408f8-ec6d-4a53-b2ed-177c5e6237e0.png)
+
+承認すると、元通り使えるようになりました。バンザイ！アリガトウ！
+
+Google のサポートの人の対応は早くて、親切でした。
 
 
 ## 余談
