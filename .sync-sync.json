@@ -553,6 +553,24 @@
         "updatedAt": "2020-05-14T20:41:56+09:00",
         "url": "https://tearoom6.hateblo.jp/entry/2020/05/14/204156",
         "userId": "tearoom6"
+      },
+      "26006613571577600": {
+        "author": "tearoom6",
+        "blogId": "tearoom6.hateblo.jp",
+        "categories": [
+          "obs",
+          "zoom",
+          "macOS"
+        ],
+        "contentType": "text/x-markdown",
+        "digest": "b8d3297c8fe7fb90c1756382243c09fb948cd797",
+        "isDraft": "no",
+        "path": "hatena/tearoom6/OBS (macOS) Virtual Camera で遊ぶ.md",
+        "publishedAt": "2020-05-21T20:06:17+09:00",
+        "title": "OBS (macOS) Virtual Camera で遊ぶ",
+        "updatedAt": "2020-05-21T20:06:17+09:00",
+        "url": "https://tearoom6.hateblo.jp/entry/2020/05/21/200617",
+        "userId": "tearoom6"
       }
     },
     "userId": "tearoom6"
@@ -665,6 +683,19 @@
         "title": "[Chrome拡張]gulpでpackage.jsonのバージョン番号をminifest.jsonにコピーする",
         "updatedAt": "2016-02-08T23:22:44+09:00",
         "url": "https://qiita.com/tearoom6/items/25a8df731d8cdd2eaa14",
+        "userName": "tearoom6"
+      },
+      "2747b49e36890b062b46": {
+        "digest": "b8d3297c8fe7fb90c1756382243c09fb948cd797",
+        "path": "hatena/tearoom6/OBS (macOS) Virtual Camera で遊ぶ.md",
+        "tags": [
+          "macos",
+          "OBS",
+          "zoom"
+        ],
+        "title": "OBS (macOS) Virtual Camera で遊ぶ",
+        "updatedAt": "2020-05-21T20:11:51+09:00",
+        "url": "https://qiita.com/tearoom6/items/2747b49e36890b062b46",
         "userName": "tearoom6"
       },
       "2eb1c5615b1bd858d270": {
