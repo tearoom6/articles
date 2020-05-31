@@ -35,6 +35,12 @@ sudo codesign -f -s - /Applications/zoom.us.app
 
 もちろん zoom をインストールしなおせば、元に戻ります。
 
+** 追記 (2020-05-31) **
+
+Zoom.us v5.0.4 にて再度 virtual camera が選択可能になりました。これで Zoom でも堂々と OBS 経由の配信ができますね。
+
+- [New updates for May 24, 2020 – Zoom Help Center](https://support.zoom.us/hc/en-us/articles/360043996131-New-updates-for-May-24-2020)
+
 ## [Snap Camera](https://snapcamera.snapchat.com/) をインストール
 
 こちらは残念ながら brew cask や App Store に登録されていないっぽいので、手動で [公式ページ](https://snapcamera.snapchat.com/download/) からダウンロードしてインストールします。
