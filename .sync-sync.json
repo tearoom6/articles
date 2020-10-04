@@ -788,6 +788,22 @@
         "updatedAt": "2020-10-01T02:10:39+09:00",
         "url": "https://tearoom6.hateblo.jp/entry/2020/10/01/021039",
         "userId": "tearoom6"
+      },
+      "26006613636490376": {
+        "author": "tearoom6",
+        "blogId": "tearoom6.hateblo.jp",
+        "categories": [
+          "Git"
+        ],
+        "contentType": "text/x-markdown",
+        "digest": "02ee909664e04264a6d7558305ee574f8cf00f63",
+        "isDraft": "no",
+        "path": "hatena/tearoom6/Git 2.27 での git pull 時の warning について.md",
+        "publishedAt": "2020-10-04T22:39:22+09:00",
+        "title": "Git 2.27 での git pull 時の warning について",
+        "updatedAt": "2020-10-04T22:39:22+09:00",
+        "url": "https://tearoom6.hateblo.jp/entry/2020/10/04/223922",
+        "userId": "tearoom6"
       }
     },
     "userId": "tearoom6"
@@ -798,6 +814,17 @@
   },
   "qiita": {
     "items": {
+      "0237080aaf2ad46b1963": {
+        "digest": "02ee909664e04264a6d7558305ee574f8cf00f63",
+        "path": "hatena/tearoom6/Git 2.27 での git pull 時の warning について.md",
+        "tags": [
+          "Git"
+        ],
+        "title": "Git 2.27 での git pull 時の warning について",
+        "updatedAt": "2020-10-04T23:09:37+09:00",
+        "url": "https://qiita.com/tearoom6/items/0237080aaf2ad46b1963",
+        "userName": "tearoom6"
+      },
       "036d5e9c186248669457": {
         "digest": "e40627af62c034e0b05c248e91f25027e4b9ca05",
         "path": "hatena/tearoom6/macOS での Java のバージョン管理.md",
