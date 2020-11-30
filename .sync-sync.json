@@ -804,6 +804,23 @@
         "updatedAt": "2020-10-04T22:39:22+09:00",
         "url": "https://tearoom6.hateblo.jp/entry/2020/10/04/223922",
         "userId": "tearoom6"
+      },
+      "26006613658920380": {
+        "author": "tearoom6",
+        "blogId": "tearoom6.hateblo.jp",
+        "categories": [
+          "macOS",
+          "Dock"
+        ],
+        "contentType": "text/x-markdown",
+        "digest": "7772cc53a55562cf10297da3a5060802fb61448c",
+        "isDraft": "no",
+        "path": "hatena/tearoom6/macOS Dock は挙動不審.md",
+        "publishedAt": "2020-12-01T04:21:35+09:00",
+        "title": "macOS Dock は挙動不審",
+        "updatedAt": "2020-12-01T04:21:35+09:00",
+        "url": "https://tearoom6.hateblo.jp/entry/2020/12/01/042135",
+        "userId": "tearoom6"
       }
     },
     "userId": "tearoom6"
@@ -999,6 +1016,18 @@
         "title": "コーディング初心者に伝えたい、きれいなコードを書くためのたった7つのこと",
         "updatedAt": "2016-02-05T22:04:22+09:00",
         "url": "https://qiita.com/tearoom6/items/4099ed5d0d8c3ab7867e",
+        "userName": "tearoom6"
+      },
+      "44082224495c0d800f37": {
+        "digest": "7772cc53a55562cf10297da3a5060802fb61448c",
+        "path": "hatena/tearoom6/macOS Dock は挙動不審.md",
+        "tags": [
+          "macos",
+          "dock"
+        ],
+        "title": "macOS Dock は挙動不審",
+        "updatedAt": "2020-12-01T04:26:24+09:00",
+        "url": "https://qiita.com/tearoom6/items/44082224495c0d800f37",
         "userName": "tearoom6"
       },
       "470e16540e3deaae5efa": {
