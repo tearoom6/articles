@@ -925,13 +925,14 @@
         "userName": "tearoom6"
       },
       "1abf24ca6d872e6579b0": {
-        "digest": "7369a555e2bec0274d76b1ed6fbf945122152b8a",
+        "digest": "40202f2e6819ad05d49654dd72fe0dd7f2dddb3f",
         "path": "qiita/tearoom6/brew tap で入れる Homebrew 外部コマンド.md",
         "tags": [
-          "homebrew"
+          "homebrew",
+          "macos"
         ],
         "title": "brew tap で入れる Homebrew 外部コマンド",
-        "updatedAt": "2016-02-15T00:14:43+09:00",
+        "updatedAt": "2020-12-02T03:33:27+09:00",
         "url": "https://qiita.com/tearoom6/items/1abf24ca6d872e6579b0",
         "userName": "tearoom6"
       },
