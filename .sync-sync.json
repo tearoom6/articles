@@ -821,6 +821,23 @@
         "updatedAt": "2020-12-01T04:21:35+09:00",
         "url": "https://tearoom6.hateblo.jp/entry/2020/12/01/042135",
         "userId": "tearoom6"
+      },
+      "26006613659646178": {
+        "author": "tearoom6",
+        "blogId": "tearoom6.hateblo.jp",
+        "categories": [
+          "macOS",
+          "homebrew"
+        ],
+        "contentType": "text/x-markdown",
+        "digest": "d6a37b78ab08e7552dbddd31780bcf5db2526372",
+        "isDraft": "no",
+        "path": "hatena/tearoom6/最速 Homebrew.md",
+        "publishedAt": "2020-12-02T21:43:50+09:00",
+        "title": "最速 Homebrew",
+        "updatedAt": "2020-12-02T21:43:50+09:00",
+        "url": "https://tearoom6.hateblo.jp/entry/2020/12/02/214350",
+        "userId": "tearoom6"
       }
     },
     "userId": "tearoom6"
@@ -864,6 +881,18 @@
         "title": "tmux で複数サーバに一発でssh接続",
         "updatedAt": "2016-02-11T23:00:35+09:00",
         "url": "https://qiita.com/tearoom6/items/0421542cc826eaf5f866",
+        "userName": "tearoom6"
+      },
+      "08d85f1816ab7ae11a03": {
+        "digest": "d6a37b78ab08e7552dbddd31780bcf5db2526372",
+        "path": "hatena/tearoom6/最速 Homebrew.md",
+        "tags": [
+          "homebrew",
+          "macos"
+        ],
+        "title": "最速 Homebrew",
+        "updatedAt": "2020-12-02T21:43:56+09:00",
+        "url": "https://qiita.com/tearoom6/items/08d85f1816ab7ae11a03",
         "userName": "tearoom6"
       },
       "1028b05ce049e6fb8e24": {
