@@ -39,6 +39,22 @@
         "url": "https://tearoom6.hateblo.jp/entry/2021/10/31/103514",
         "userId": "tearoom6"
       },
+      "13574176438032648436": {
+        "author": "tearoom6",
+        "blogId": "tearoom6.hateblo.jp",
+        "categories": [
+          "Vim"
+        ],
+        "contentType": "text/x-markdown",
+        "digest": "2f0275b797f55a6183239dccf604fdf861529ad9",
+        "isDraft": "no",
+        "path": "hatena/tearoom6/Vim E1208: -complete used without allowing arguments エラー.md",
+        "publishedAt": "2021-11-13T23:30:12+09:00",
+        "title": "Vim E1208: -complete used without allowing arguments エラー",
+        "updatedAt": "2021-11-13T23:30:12+09:00",
+        "url": "https://tearoom6.hateblo.jp/entry/2021/11/13/233012",
+        "userId": "tearoom6"
+      },
       "17680117127214484958": {
         "author": "tearoom6",
         "blogId": "tearoom6.hateblo.jp",
