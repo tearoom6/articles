@@ -55,6 +55,23 @@
         "url": "https://tearoom6.hateblo.jp/entry/2021/11/13/233012",
         "userId": "tearoom6"
       },
+      "13574176438040296303": {
+        "author": "tearoom6",
+        "blogId": "tearoom6.hateblo.jp",
+        "categories": [
+          "chrome",
+          "extension"
+        ],
+        "contentType": "text/x-markdown",
+        "digest": "001f882294864654bb2317865ad4c63f599301ba",
+        "isDraft": "no",
+        "path": "hatena/tearoom6/Advent calendar driven development.md",
+        "publishedAt": "2021-12-07T04:46:55+09:00",
+        "title": "Advent calendar driven development",
+        "updatedAt": "2021-12-07T04:46:55+09:00",
+        "url": "https://tearoom6.hateblo.jp/entry/2021/12/07/044655",
+        "userId": "tearoom6"
+      },
       "17680117127214484958": {
         "author": "tearoom6",
         "blogId": "tearoom6.hateblo.jp",
@@ -1104,6 +1121,18 @@
         "title": "macOS Legacy System Extensions",
         "updatedAt": "2020-05-08T03:19:20+09:00",
         "url": "https://qiita.com/tearoom6/items/1ff57b12411bf8a91a3c",
+        "userName": "tearoom6"
+      },
+      "22d0218fb54049aa9322": {
+        "digest": "001f882294864654bb2317865ad4c63f599301ba",
+        "path": "hatena/tearoom6/Advent calendar driven development.md",
+        "tags": [
+          "Chrome",
+          "extension"
+        ],
+        "title": "Advent calendar driven development",
+        "updatedAt": "2021-12-07T04:51:12+09:00",
+        "url": "https://qiita.com/tearoom6/items/22d0218fb54049aa9322",
         "userName": "tearoom6"
       },
       "25a8df731d8cdd2eaa14": {
