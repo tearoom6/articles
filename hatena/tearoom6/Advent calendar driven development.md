@@ -142,4 +142,14 @@ https://chromium.googlesource.com/chromium/src/+/0ab916c3ef2fd0674d179e2c29b3e6b
 
 - [TypeScriptで作るイマドキChrome拡張機能開発入門 - Qiita](https://qiita.com/markey/items/ea9ed18a1a243b39e06e)
 
+---
+
+(追記)
+レビュー通って Chrome Web Store からインストール可能になりました。
+もしご興味持った方がいれば改善にご協力お願いします🙏
+
+https://chrome.google.com/webstore/detail/timezone-traveler/gndkkoonfiibdihdaklkhfiikfkbhdik
+
+---
+
 以上、6日目が誕生日の tearoom6 の記事でした 🎉
