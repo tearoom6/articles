@@ -72,6 +72,24 @@
         "url": "https://tearoom6.hateblo.jp/entry/2021/12/07/044655",
         "userId": "tearoom6"
       },
+      "13574176438042499662": {
+        "author": "tearoom6",
+        "blogId": "tearoom6.hateblo.jp",
+        "categories": [
+          "aws",
+          "ruby",
+          "ini"
+        ],
+        "contentType": "text/x-markdown",
+        "digest": "2582c1bfbba17e35f566268536707a2bf80db00f",
+        "isDraft": "no",
+        "path": "hatena/tearoom6/AWS SDK Ruby で credentials の読み込みに失敗する場合.md",
+        "publishedAt": "2021-12-14T00:02:34+09:00",
+        "title": "AWS SDK Ruby で credentials の読み込みに失敗する場合",
+        "updatedAt": "2021-12-14T00:02:34+09:00",
+        "url": "https://tearoom6.hateblo.jp/entry/2021/12/14/000234",
+        "userId": "tearoom6"
+      },
       "17680117127214484958": {
         "author": "tearoom6",
         "blogId": "tearoom6.hateblo.jp",
@@ -1453,6 +1471,19 @@
         "title": "EC2 Mac instance でCI環境を作る(未完)",
         "updatedAt": "2020-12-03T21:45:40+09:00",
         "url": "https://qiita.com/tearoom6/items/96dfa1c6360d15406891",
+        "userName": "tearoom6"
+      },
+      "97474732505392e21355": {
+        "digest": "2582c1bfbba17e35f566268536707a2bf80db00f",
+        "path": "hatena/tearoom6/AWS SDK Ruby で credentials の読み込みに失敗する場合.md",
+        "tags": [
+          "Ruby",
+          "AWS",
+          "ini"
+        ],
+        "title": "AWS SDK Ruby で credentials の読み込みに失敗する場合",
+        "updatedAt": "2021-12-14T00:02:28+09:00",
+        "url": "https://qiita.com/tearoom6/items/97474732505392e21355",
         "userName": "tearoom6"
       },
       "974e868cc16c4be14a3e": {
