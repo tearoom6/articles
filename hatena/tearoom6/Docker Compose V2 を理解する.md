@@ -6,6 +6,10 @@ Advent Calendar も最終週ですね！
 
 ---
 
+(2022-03-10 一部追記しました)
+
+---
+
 結構以前だと思うのですが、いつものように `docker-compose` を使っていると、
 
 > Docker Compose is now in the Docker CLI, try `docker compose up`
@@ -67,9 +71,16 @@ Compose V1 と V2 は概ね互換性はあるものの、完全ではないよ�
    - `docker-compose` がデフォルトで Compose V2 を向くようになった
    - General settings (`Use Docker Compose V2` という項目) で `docker-compose` を呼んだときに Compose V2 を使うかどうか選択できるようになった
 - Docker Desktop 4.3.1 (2021-12-11)
+- Docker Desktop 4.3.2 (2021-12-21)
+- Docker Desktop 4.4.2 (2022-01-13)
+- Docker Desktop 4.5.0 (2022-02-10)
    - (今ここ)
 
-ということで、 macOS 版 (たぶん Windows 版も) Docker Desktop をきちんと最新版にアップデートしている場合、明示的に OFF しない限りは、既に Compose V2 への移行が完了しているということですね。 (明示的に `Use Docker Compose V2` のチェックを外せば `docker-compose` コマンドで引き続き Compose V1 を利用することはできますが)
+ということで、 macOS 版 (たぶん Windows 版も) Docker Desktop をきちんと最新版にアップデートしている場合、明示的に OFF しない限りは、既に Compose V2 への移行が完了しているということですね。
+
+(明示的に `Use Docker Compose V2` のチェックを外せば `docker-compose` コマンドで引き続き Compose V1 を利用することはできます)
+
+(2022-03-10 追記: もしくは `docker-compose-v1` コマンドを使うことで、引き続き Compose V1 を利用することができるようです)
 
 Linux 版の状況もあって Compose V2 は 2021-12-20 現在ではまだ GA (Generally Available) とはなっていませんが、もう GA になるのは時間の問題と思われます。
 
@@ -240,3 +251,57 @@ copilot app delete
 - [DockerでPHPを実行するコンテナを作る | GRAYCODE](https://gray-code.com/blog/php-on-docker/)
 - [Docker ComposeでNginxとphpを連携する](https://zukucode.com/2019/06/docker-compose-nginx-php.html)
 - [AWS CLIでECRにログインする時はget-loginではなくget-login-passwordを使おう - Qiita](https://qiita.com/hayao_k/items/3e4c822425b7b72e7fd0)
+
+## Compose V2 での pts の stdout/stderr の向き先 (2022-03-10 追記)
+
+V1 と V2 の動作の違いで、結構大きな違いを見つけたので、追記します。
+
+Docker Compose V1 では、以下のように `exec` コマンドでコンテナに接続して、その中で標準出力に出力したメッセージを、リダイレクトによってホスト側のファイルに書き込むことができていました。
+
+```sh
+# Docker Compose V1
+$ docker-compose-v1 exec app echo Hello > /tmp/test
+$ cat /tmp/test
+Hello
+```
+
+ところが、 Docker Compose V2 では、同様にしても、コマンド実行時にメッセージが表示され、ファイルには何も書き込まれません。
+
+```sh
+# Docker Compose V2
+$ docker compose exec app echo Hello > /tmp/test
+Hello
+$ cat /tmp/test
+```
+
+ただし、 `-T` (`--no-TTY`) option をつけて実行をすることで従来どおり、ホスト側ファイルへリダイレクトすることは可能です。
+このオプションは、 pts (pseudo-TTY, pseudo-terminal slave, 擬似端末) の割当を無効にするためのものとのことです。
+
+```sh
+# Docker Compose V2
+$ docker compose exec -T app echo Hello > /tmp/test
+$ cat /tmp/test
+Hello
+```
+
+Docker Compose V1 の場合でも `-T` option をつけても同様の結果が得られました。
+
+```sh
+# Docker Compose V1
+$ docker-compose-v1 exec -T app echo Hello > /tmp/test
+$ cat /tmp/test
+Hello
+```
+
+どういう理屈で、このような挙動になっているのか、という点については、私の Linux への理解がなさすぎて、下手に憶測を書いても不正確になりそうなので、控えます。
+もし親切に教えていただける神の方がいたら嬉しいです。
+
+Docker 雰囲気で扱えるくらいにはなっているけど、一歩奥に入れば分からないことだらけだなと思い知った次第です。
+
+> References
+
+- [Impossible to redirect output of docker-compose v2 on macOS - Stack Overflow](https://stackoverflow.com/questions/71029547/)
+- [docker run -it で学ぶ tty とか標準入出力とかファイルディスクリプタとか - valid,invalid](https://ohbarye.hatenablog.jp/entry/2019/05/05/learn-tty-with-docker)
+- [DockerのTTYって何?](https://zenn.dev/hohner/articles/43a0da20181d34)
+- [docker container内で叩いたコマンドを docker log に出力する方法 - Qiita](https://qiita.com/uturned0/items/2404aa8233cbf2b276f8)
+- [Goコンテナでdocker-compose logsが取れない](https://zenn.dev/hohner/articles/ec94623f8fa5b1)
