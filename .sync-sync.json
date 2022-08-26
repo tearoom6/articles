@@ -1187,6 +1187,17 @@
         "url": "https://qiita.com/tearoom6/items/22d0218fb54049aa9322",
         "userName": "tearoom6"
       },
+      "252afc24cd3f6edc68a5": {
+        "digest": "1b955eb6269414ccb97690cde16b328cdfbea1bc",
+        "path": "qiita/tearoom6/タイムゾーンを意識した Day.js オブジェクトの生成.md",
+        "tags": [
+          "day.js"
+        ],
+        "title": "タイムゾーンを意識した Day.js オブジェクトの生成",
+        "updatedAt": "2022-08-26T16:25:47+09:00",
+        "url": "https://qiita.com/tearoom6/items/252afc24cd3f6edc68a5",
+        "userName": "tearoom6"
+      },
       "25a8df731d8cdd2eaa14": {
         "digest": "1e9c0563f3d2bc6e3e6c5067bf84b8bd377aa9fe",
         "path": "qiita/tearoom6/[Chrome拡張]gulpでpackage.jsonのバージョン番号をminifest.jsonにコピーする.md",
