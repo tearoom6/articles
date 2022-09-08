@@ -1223,6 +1223,18 @@
         "url": "https://qiita.com/tearoom6/items/2747b49e36890b062b46",
         "userName": "tearoom6"
       },
+      "280e215d3f1adbf27984": {
+        "digest": "2c172841ae3f2eb8aaa7fa7952471dfb7bd6148a",
+        "path": "qiita/tearoom6/MediaSourceHandle creation is currently supported only in a dedicated worker.md",
+        "tags": [
+          "Chromium",
+          "video.js"
+        ],
+        "title": "MediaSourceHandle creation is currently supported only in a dedicated worker",
+        "updatedAt": "2022-09-08T10:22:36+09:00",
+        "url": "https://qiita.com/tearoom6/items/280e215d3f1adbf27984",
+        "userName": "tearoom6"
+      },
       "2eb1c5615b1bd858d270": {
         "digest": "308d9a45e161f2a68d241c15c6b299c4925107bb",
         "path": "hatena/tearoom6/Android testOnly フラグ.md",
